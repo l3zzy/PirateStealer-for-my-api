@@ -14,6 +14,6 @@
 
 <a id="howtouse"></a>📁 〢 Infos
 
---> Updated by kakau69 <-- 💖\n
+--> Updated by kakau69 <-- 💖 <br>
 Sendo Desenvolvido ainda, apenas disponibilizei o code. Vou finalizar á parte de baixar este code e infectar o discord e reuparei no projeto.
 <p align="center"><a href=#top>Back to Top</a></p>
