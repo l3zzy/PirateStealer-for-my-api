@@ -1,9 +1,9 @@
 <h1 align="center">
-  <a id="top"></a>Discord Api Stealer
+  <a id="top"></a>Discord Infector Stealer
 </h1>
 
 <h2 align="center">
-  All Rights Reserved For Stanley <----> ❤️
+--> All Rights Reserved For Stanley <-- ❤️
 
 </h2>
 
