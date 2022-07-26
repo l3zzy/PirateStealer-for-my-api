@@ -4,6 +4,7 @@
 
 <h2 align="center">
 --> All Rights Reserved For Stanley <-- ❤️
+--> updated by kakau69 <-- 💖
 
 </h2>
 
