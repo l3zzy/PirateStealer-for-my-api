@@ -5,7 +5,7 @@ const {
 const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch');
-const webhook = "Você realmente acha que vou deixar uma webhook, em um script ofuscado em pleno 2022? Eu acho que você deveria se matar se achou isso. Bjs"
+const webhook = "Você realmente acha que vou deixar uma webhook, em um script ofuscado em pleno 2022? Bjs"
 const api = "sua api"
 const Filters = {
     1: {
