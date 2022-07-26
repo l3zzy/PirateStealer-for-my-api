@@ -18,5 +18,6 @@
 <a id="howtouse"></a>📁 〢 Infos
 
 Português: Sendo Desenvolvido ainda, apenas disponibilizei o code. Vou finalizar á parte de baixar este code e infectar o discord e reuparei no projeto. <br>
+  <br>
 Inglês: Still in development, just making the code available. I will finish the part of downloading this code and infecting discord and re-uploading it in the project.
 <p align="center"><a href=#top>Back to Top</a></p>
