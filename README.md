@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
---> All Rights Reserved For Stanley <-- ❤️
+--> All Rights Reserved For Stanley <-- ❤️\n
 --> updated by kakau69 <-- 💖
 
 </h2>
