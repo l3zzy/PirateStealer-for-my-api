@@ -6,7 +6,7 @@
 --> All Rights Reserved For Stanley <-- ❤️
            <br>
            <br>
---> Updated by kakau69 <-- 💖
+--> Updated by kakau69 <-- 
 
 </h2>
 
